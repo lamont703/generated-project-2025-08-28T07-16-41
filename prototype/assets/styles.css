@@ -1,0 +1,1 @@
+body {font-family: sans-serif; margin: 0; padding: 0;} #projectList {display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding: 20px;} .project-card {border: 1px solid #ccc; padding: 15px; border-radius: 5px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);}
